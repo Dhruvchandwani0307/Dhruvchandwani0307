@@ -4,3 +4,10 @@
 
 🎓 VIT Bhopal - CSE  
 💻 Learning DSA & Development  
+
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-chandwani-a42473277)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvpvt045@gmail.com)
+
