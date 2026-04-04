@@ -2,8 +2,11 @@
 
 # Hi 👋 I'm Dhruv Chandwani
 
-🎓 VIT Bhopal - CSE  
-💻 Learning DSA & Development  
+🎓 CSE Core Student at VIT Bhopal (Batch of 2028)  
+💻 Passionate about coding and problem solving  
+🚀 Currently learning Data Structures & Algorithms and Web Development
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00B4DB&size=25&center=true&vCenter=true&width=600&lines=Hi+there+I'm+Dhruv+Chandwani;Computer+Science+student+at+VIT+Bhopal;Learning+to+build+scalable+web+applications)
 
 ## 🔗 Connect with me
 
