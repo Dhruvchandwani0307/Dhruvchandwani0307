@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=200&section=header&text=Dhruv%20Chandwani&fontSize=40"/>
+<img src="https://raw.githubusercontent.com/MKCA06/MKCA06/main/giphy.webp" width="500"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00B4DB&size=25&center=true&vCenter=true&width=600&lines=Hi+there+I'm+Dhruv+Chandwani;Computer+Science+student+at+VIT+Bhopal;Learning+to+build+scalable+web+applications)
 # Hi 👋 I'm Dhruv Chandwani
