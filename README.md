@@ -14,3 +14,8 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvpvt045@gmail.com)
 
+## 💡 Tech Insight
+
+> "Software is a great combination of artistry and engineering."  
+> — Bill Gates
+
