@@ -7,6 +7,10 @@
 💻 Passionate about coding and problem solving  
 🚀 Currently learning Data Structures & Algorithms and Web Development
 
+## 📊 Contribution Activity
+
+![Snake animation](https://github.com/Dhruvchandwani0307/Dhruvchandwani0307/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 🔗 Connect with me
 
