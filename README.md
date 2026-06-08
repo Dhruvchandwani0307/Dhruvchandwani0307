@@ -9,7 +9,7 @@
 
 ## 📊 Contribution Activity
 
-![Snake animation](https://github.com/Dhruvchandwani0307/Dhruvchandwani0307/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Dhruvchandwani0307/Dhruvchandwani0307/output/github-contribution-grid-snake.svg)
 
 
 ## 🔗 Connect with me
